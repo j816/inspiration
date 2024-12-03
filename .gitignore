@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+*.class
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Build directories
+build/
+dist/
+
+# Temporary files
+*.swp
+*.bak
